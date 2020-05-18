@@ -1,0 +1,28 @@
+<div class="purchaseForm">
+
+
+              <legend>Contact information</legend>
+
+
+              <form enctype="multipart/form-data" action="purchase_handler.php" method="POST">
+
+                  <p>Name: <input type="text" name="name"></p>
+                  <p>E-mail: <input type="email" name="email"></p>
+                  <p>Phone number: <input type="text" name = "number"> </p>
+
+                  <p>Description:<Br>
+                    <textarea name="description" cols="60" rows="5"></textarea></p>
+
+                  <br>
+                  <label>Add files (Max 10 MB)</label><br>
+                  <input type="file" name="userfile[]" multiple>
+                  <br>
+                  <br>
+
+                  <input type="submit" value="Send">
+
+              </form>
+	  <br><br>
+
+
+          </div>

@@ -1,0 +1,21 @@
+<div class="img">
+            <img src="imgs/printerIMG.jpg" alt="" height="500" width="500">
+          </div>
+
+          <div>
+            <p>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+  ut labore et dolore magna aliqua. Ornare arcu dui vivamus arcu felis. Odio tempor orci dapibus
+  ultrices in iaculis nunc. Ornare lectus sit amet est placerat in egestas erat imperdiet.
+  Sodales ut eu sem integer. Eu mi bibendum neque egestas congue quisque. Turpis egestas integer
+  eget aliquet nibh. Ullamcorper a lacus vestibulum sed arcu non odio. Turpis egestas integer
+  eget aliquet nibh praesent. Viverra tellus in hac habitasse platea dictumst. Gravida neque
+  convallis a cras semper auctor neque vitae tempus. Nisl purus in mollis nunc sed id semper.
+  Diam maecenas sed enim ut sem viverra aliquet eget.
+
+  Ante metus dictum at tempor commodo ullamcorper. Risus in hendrerit gravida rutrum quisque non tellus orci. Nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Sit amet massa vitae tortor. Duis at consectetur lorem donec massa sapien faucibus.
+  Ante metus dictum at tempor commodo ullamcorper. Risus in hendrerit gravida rutrum quisque non tellus orci. Nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Sit amet massa vitae tortor. Duis at consectetur lorem donec massa sapien faucibus.
+  Ante metus dictum at tempor commodo ullamcorper. Risus in hendrerit gravida rutrum quisque non tellus orci. Nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Sit amet massa vitae tortor. Duis at consectetur lorem donec massa sapien faucibus.
+
+          </p>
+          </div>
