@@ -1,0 +1,143 @@
+/* div {
+  width: 75px;
+  height: 50ph;
+  background-color: cadetblue;
+  color : red;
+  margin: 30px;
+} */
+
+/* @media not handheld { */
+  div {
+    font: 30px Times;
+    /* border:  1px solid black; */
+    margin: 10px;
+    /* height: auto; */
+    padding: 0px;
+  }
+/* } */
+
+
+  #header {
+    background-color: #aaa;
+    color: #e43;
+    font: 47px Courier;
+  }
+
+
+  #sidebar {
+    background-color: #bbb;
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+  }
+
+  #main {
+    background-color: #f0f0f0;
+    /* margin-left: 70px; */
+    height: auto;
+    /* margin-top: 10px; */
+  }
+
+  #mainButton {
+    /* background-color: DarkOrange; */
+    width: auto;
+    float: left;
+    margin: 5px;
+    height: auto;
+    font: 47px Courier;
+  }
+
+  #title {
+    background-color: #aaa;
+    /* color: #e43; */
+    color: blue;
+    /* background-color: DarkOrange; */
+    font: 47px Courier;
+    /* width: 17%; */
+    width:auto;
+    margin: 0%;
+    /* margin-right:41%; */
+    margin-left: 41%;
+    /* float: right; */
+  }
+
+#signInButton {
+  /* width: auto; */
+  /* margin: 5px; */
+  /* height: auto; */
+  float: right;
+  /* background-color: DarkOrange; */
+  font: 40px Courier;
+  margin-top: 10px;
+
+  /* margin-left: 87%; */
+
+}
+
+
+
+  #menu {
+    height: 34px;
+    background-color: #ccc;
+  }
+
+  #menuItem {
+    background-color: DarkOrange;
+    float: left;
+    width: 20%;
+    /* height: 37px; */
+    margin: 0px;
+    margin-left: 10%;
+    /* padding-left: 10px; */
+    color: black;
+  }
+
+
+  #content {
+    background-color: #ccc;
+    height: auto;
+  }
+
+
+  .contactInfo {
+    width: 400px;
+    height: auto;
+    background-color: DarkOrange;
+    float: left;
+    /* margin-left: 10px;  */
+  }
+
+  .description {
+    float: left;
+    margin-left: 20px;
+  }
+  .img {
+    float: left;
+    /* height: 200px; */
+    /* width: 200px; */
+    /* margin-bottom: -30px; */
+    /* width: 640px; */
+  }
+  .testContent {
+    width: 500px;
+    /* height: 200px; */
+    /* float: left;
+    margin-left: 600px; */
+  }
+  .textContent {
+    /* float: right; */
+    height: 400px
+  }
+  .purchaseForm {
+    width: 40%;
+    margin-left: 30%;
+
+
+  }
+
+
+  #footer {
+    background-color: #ddd;
+    font-size: 15px;
+  }
